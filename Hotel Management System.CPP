@@ -1075,7 +1075,5 @@ class control
 	  cleardevice();
  
  
-     c.pass();
-     c.bye();
-     closegraph();
+     
  }
